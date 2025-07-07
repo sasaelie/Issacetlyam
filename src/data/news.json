@@ -1,0 +1,31 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "title": "Isaac & Alyam à la réception du Palais",
+      "date": "2025-06-20",
+      "summary": "Retour sur un événement prestigieux organisé dans un cadre royal. Une soirée mémorable avec 200 invités dans les salons dorés du Palais, orchestrée avec notre savoir-faire habituel.",
+      "image": "https://images.pexels.com/photos/1444442/pexels-photo-1444442.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "category": "Événement prestigieux",
+      "visible": true
+    },
+    {
+      "id": "2",
+      "title": "Nouveau partenariat avec les plus grands traiteurs parisiens",
+      "date": "2025-05-15",
+      "summary": "Nous sommes fiers d'annoncer notre collaboration exclusive avec trois des plus prestigieux traiteurs de la capitale, garantissant une expérience culinaire d'exception pour vos événements.",
+      "image": "https://images.pexels.com/photos/1181396/pexels-photo-1181396.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "category": "Partenariat",
+      "visible": true
+    },
+    {
+      "id": "3",
+      "title": "Lancement de notre service de décoration florale exclusive",
+      "date": "2025-04-10",
+      "summary": "Découvrez notre nouveau service de décoration florale sur mesure, créé en partenariat avec les meilleurs fleuristes de Paris pour sublimer vos événements les plus précieux.",
+      "image": "https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "category": "Nouveau service",
+      "visible": true
+    }
+  ]
+}

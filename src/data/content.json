@@ -1,0 +1,41 @@
+{
+  "hero": {
+    "title": "Isaac & Alyam",
+    "subtitle": "Exclusive Events",
+    "tagline": "Créateurs d'expériences mémorables",
+    "description": "Nous orchestrons vos événements d'exception avec raffinement et savoir-faire.",
+    "cta": "Prendre contact"
+  },
+  "about": {
+    "title": "Notre Excellence",
+    "description": "Depuis plus de 10 ans, Isaac & Alyam transforment vos rêves en réalité. Notre expertise dans l'événementiel de luxe nous permet de créer des moments uniques et inoubliables.",
+    "values": [
+      {
+        "icon": "Crown",
+        "title": "Élégance",
+        "description": "Chaque détail est pensé pour sublimer votre événement"
+      },
+      {
+        "icon": "Heart",
+        "title": "Passion",
+        "description": "Nous mettons tout notre cœur dans chaque projet"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Innovation",
+        "description": "Des concepts créatifs pour des expériences uniques"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Discutons de votre projet d'exception",
+    "phone": "+33 1 23 45 67 89",
+    "email": "contact@isaac-alyam.com",
+    "address": "Paris, France"
+  },
+  "footer": {
+    "tagline": "Isaac & Alyam - Exclusive Events",
+    "credits": "Site créé avec passion"
+  }
+}

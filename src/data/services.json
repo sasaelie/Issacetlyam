@@ -1,0 +1,36 @@
+{
+  "services": [
+    {
+      "id": "wedding",
+      "title": "Mariages d'Exception",
+      "description": "Célébrez votre union dans un cadre enchanteur, personnalisé selon vos désirs les plus précieux.",
+      "icon": "Heart",
+      "image": "https://images.pexels.com/photos/1444442/pexels-photo-1444442.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "features": ["Décoration sur mesure", "Coordination complète", "Sélection de prestataires"]
+    },
+    {
+      "id": "corporate",
+      "title": "Événements Corporate",
+      "description": "Impressionnez vos clients et collaborateurs avec des événements professionnels mémorables.",
+      "icon": "Building",
+      "image": "https://images.pexels.com/photos/1181396/pexels-photo-1181396.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "features": ["Séminaires", "Lancements produits", "Galas d'entreprise"]
+    },
+    {
+      "id": "private",
+      "title": "Fêtes Privées",
+      "description": "Anniversaires, baptêmes, célébrations familiales... Chaque moment compte pour nous.",
+      "icon": "Users",
+      "image": "https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "features": ["Ambiance personnalisée", "Animation", "Traiteur sélectionné"]
+    },
+    {
+      "id": "luxury",
+      "title": "Événements de Luxe",
+      "description": "Pour les occasions les plus prestigieuses, nous créons des expériences d'exception.",
+      "icon": "Diamond",
+      "image": "https://images.pexels.com/photos/1306248/pexels-photo-1306248.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "features": ["Lieux exclusifs", "Service premium", "Prestations haut de gamme"]
+    }
+  ]
+}

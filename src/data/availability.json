@@ -1,0 +1,44 @@
+{
+  "availability": [
+    {
+      "date": "2024-04-15",
+      "available": true,
+      "type": "weekend"
+    },
+    {
+      "date": "2024-04-22",
+      "available": true,
+      "type": "weekend"
+    },
+    {
+      "date": "2024-05-01",
+      "available": false,
+      "type": "holiday"
+    },
+    {
+      "date": "2024-05-10",
+      "available": true,
+      "type": "weekday"
+    },
+    {
+      "date": "2024-05-18",
+      "available": true,
+      "type": "weekend"
+    },
+    {
+      "date": "2024-06-01",
+      "available": true,
+      "type": "weekend"
+    },
+    {
+      "date": "2024-06-15",
+      "available": false,
+      "type": "booked"
+    },
+    {
+      "date": "2024-07-13",
+      "available": true,
+      "type": "weekend"
+    }
+  ]
+}

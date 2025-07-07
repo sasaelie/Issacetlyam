@@ -1,0 +1,36 @@
+{
+  "references": [
+    {
+      "id": "1",
+      "name": "Château de Versailles",
+      "type": "Lieu prestigieux",
+      "event": "Gala de charité",
+      "year": "2024",
+      "visible": true
+    },
+    {
+      "id": "2",
+      "name": "Hôtel George V",
+      "type": "Hôtel de luxe",
+      "event": "Mariage royal",
+      "year": "2023",
+      "visible": true
+    },
+    {
+      "id": "3",
+      "name": "Musée d'Orsay",
+      "type": "Lieu culturel",
+      "event": "Soirée corporate",
+      "year": "2024",
+      "visible": true
+    },
+    {
+      "id": "4",
+      "name": "Villa Ephrussi",
+      "type": "Villa d'exception",
+      "event": "Anniversaire privé",
+      "year": "2023",
+      "visible": true
+    }
+  ]
+}

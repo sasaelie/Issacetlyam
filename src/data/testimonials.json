@@ -1,0 +1,31 @@
+{
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "Marie & Pierre Laurent",
+      "event": "Mariage",
+      "rating": 5,
+      "comment": "Isaac & Alyam ont transformé notre mariage en conte de fées. Chaque détail était parfait, du décor à la coordination. Merci infiniment !",
+      "visible": true,
+      "date": "2024-01-15"
+    },
+    {
+      "id": "2",
+      "name": "Sophie Dubois",
+      "event": "Événement Corporate",
+      "rating": 5,
+      "comment": "Professionnalisme exemplaire pour notre lancement produit. L'équipe a su créer une ambiance parfaite pour impressionner nos clients.",
+      "visible": true,
+      "date": "2024-02-20"
+    },
+    {
+      "id": "3",
+      "name": "Famille Moreau",
+      "event": "Anniversaire",
+      "rating": 5,
+      "comment": "Organisation impeccable pour les 60 ans de notre mère. Tout était magnifique et parfaitement orchestré.",
+      "visible": true,
+      "date": "2024-03-10"
+    }
+  ]
+}
